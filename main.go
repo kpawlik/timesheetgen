@@ -4,8 +4,8 @@ package main
 import (
 	"flag"
 	"fmt"
+	"github.com/kpawlik/wlparser"
 	"io/ioutil"
-	"kpa/wlparser"
 	"os"
 	"strings"
 )
